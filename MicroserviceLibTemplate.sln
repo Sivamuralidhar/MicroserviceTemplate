@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceWorkerTemplate", "MicroserviceWorkerTemplate\MicroserviceWorkerTemplate.csproj", "{2543ABD6-6705-4B41-BCA4-4AD25F7F72C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceWebAPITemplate", "MicroserviceWebAPITemplate\MicroserviceWebAPITemplate.csproj", "{E4A79B79-FCF4-4883-80DA-F96F6E7D2910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2543ABD6-6705-4B41-BCA4-4AD25F7F72C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2543ABD6-6705-4B41-BCA4-4AD25F7F72C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2543ABD6-6705-4B41-BCA4-4AD25F7F72C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2543ABD6-6705-4B41-BCA4-4AD25F7F72C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A79B79-FCF4-4883-80DA-F96F6E7D2910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A79B79-FCF4-4883-80DA-F96F6E7D2910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A79B79-FCF4-4883-80DA-F96F6E7D2910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A79B79-FCF4-4883-80DA-F96F6E7D2910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D58FDDB-56E6-419E-B683-0DF6D407DFDA}
+	EndGlobalSection
+EndGlobal
